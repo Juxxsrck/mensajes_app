@@ -1,0 +1,7 @@
+target/classes/.netbeans_automatic_build
+target/classes/com/platzi/mensajes_app/Conexion.class
+target/classes/com/platzi/mensajes_app/Inicio.class
+target/classes/com/platzi/mensajes_app/Mensajes_app.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/test-classes/.netbeans_automatic_build
